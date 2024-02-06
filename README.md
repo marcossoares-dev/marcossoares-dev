@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Marcos Soares</h1>
 <h3 align="center">Profissional de TI com mais de 13 anos de experiência em TI Hospitalar, apaixonado por Ciência e Análise de Dados.</h3>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **Python, Cloud**
 
 - 👯 Também compartilho conteúdo na Comunidade SYSTEMTI.NET [Comunidade SYSTEMTI.NET](www.systemti.net)
 
